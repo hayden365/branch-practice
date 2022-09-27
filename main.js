@@ -1,9 +1,11 @@
 var food = [
 'Hamburger',
-'Steak'
+'Steak',
+'Pizza'
 ]
 
 var animals = [
 'dog',
 'cat',
+'hamster',
 ]
